@@ -2,4 +2,4 @@
 ## members
 * zia
 * ohkura
-* kawashima_
+* kawashima
