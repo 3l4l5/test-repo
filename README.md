@@ -1,4 +1,5 @@
 # test-repo
-## kawashima
+## members
 * zia
 * ohkura
+* kawashima_
